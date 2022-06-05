@@ -1,0 +1,13 @@
+E:\Project\C#\QLTC\QLTC\bin\Debug\QLTC.exe.config
+E:\Project\C#\QLTC\QLTC\bin\Debug\QLTC.exe
+E:\Project\C#\QLTC\QLTC\bin\Debug\QLTC.pdb
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.csprojAssemblyReference.cache
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.Properties.Resources.resources
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.csproj.GenerateResource.cache
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.csproj.CoreCompileInputs.cache
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.exe
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.pdb
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.FormSanPham.resources
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.FormQLTC.resources
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.FormKhachHang.resources
+E:\Project\C#\QLTC\QLTC\obj\Debug\QLTC.FormNhanVien.resources

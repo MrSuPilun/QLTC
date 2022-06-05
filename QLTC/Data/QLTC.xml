@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QLTC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Project\C#\QLTC\QLTC\Data\QLTC.xsd">
+    <KhachHang>
+        <MaKH>KH00001</MaKH>
+        <HoTenKH>Tran Van Huy</HoTenKH>
+        <SDT>0704460748</SDT>
+        <Dchi>65 Vo Tru</Dchi>
+        <Email>vanhuy@gmail.com</Email>      
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH00002</MaKH>
+        <HoTenKH>Pham Ngoc An</HoTenKH>
+        <SDT>0147258369</SDT>
+        <Dchi>78 Nguyen Thien Thuat</Dchi>
+        <Email>ngocan@gmail.com</Email>       
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH00003</MaKH>
+        <HoTenKH>Hoang Quoc Nam</HoTenKH>
+        <SDT>0123456789</SDT>
+        <Dchi>96 Quang Nam</Dchi>
+        <Email>quocnam@gmail.com</Email>       
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH00004</MaKH>
+        <HoTenKH>Nguyen Hoang Minh Phuc</HoTenKH>
+        <SDT>0963852741</SDT>
+        <Dchi>325 Nha Trang</Dchi>
+        <Email>minhphuc@gmail.com</Email>        
+    </KhachHang>
+    <KhachHang>
+        <MaKH>KH00005</MaKH>
+        <HoTenKH>Le Thi Y Nhi</HoTenKH>
+        <SDT>0852159357</SDT>
+        <Dchi>486/7b Dien Khanh</Dchi>
+        <Email>ynhi@gmail.com</Email>        
+    </KhachHang>
+    <NhanVien>
+        <MaNV>NVG00001</MaNV>
+        <HoTenNV>Nguyen Duc Huy</HoTenNV>
+        <GioiTinh>NAM</GioiTinh>
+        <SDT>0456798123</SDT>
+        <Email>duchuy@gmail.com</Email>
+        <ChucVu>NhanVienGiao</ChucVu>       
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NVD00002</MaNV>
+        <HoTenNV>Nguyen Thi Lan</HoTenNV>
+        <GioiTinh>NỮ</GioiTinh>
+        <SDT>0245987631</SDT>
+        <Email>thilan@gmail.com</Email>
+        <ChucVu>NhanVienDuyet</ChucVu>       
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NVG00003</MaNV>
+        <HoTenNV>Huynh Van Lap</HoTenNV>
+        <GioiTinh>NAM</GioiTinh>
+        <SDT>0456798569</SDT>
+        <Email>vanlap@gmail.com</Email>
+        <ChucVu>NhanVienGiao</ChucVu>      
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NVD00004</MaNV>
+        <HoTenNV>Vo Thi Tu</HoTenNV>
+        <GioiTinh>NỮ</GioiTinh>
+        <SDT>0241477631</SDT>
+        <Email>thitu@gmail.com</Email>
+        <ChucVu>NhanVienDuyet</ChucVu>       
+    </NhanVien>
+    <NhanVien>
+        <MaNV>NVD00005</MaNV>
+        <HoTenNV>Nguyen Thi Thanh Huyen</HoTenNV>
+        <GioiTinh>NỮ</GioiTinh>
+        <SDT>0456369258</SDT>
+        <Email>thanhhuyen@gmail.com</Email>
+        <ChucVu>NhanVienDuyet</ChucVu>      
+    </NhanVien>
+    <NhomSP>
+        <MaNhomSP>NSP01</MaNhomSP>
+        <TenNhomSP>Man</TenNhomSP>
+    </NhomSP>
+    <NhomSP>
+        <MaNhomSP>NSP02</MaNhomSP>
+        <TenNhomSP>Nhan</TenNhomSP>
+    </NhomSP>
+    <NhomSP>
+        <MaNhomSP>NSP03</MaNhomSP>
+        <TenNhomSP>Buoi</TenNhomSP>
+    </NhomSP>
+    <NhomSP>
+        <MaNhomSP>NSP04</MaNhomSP>
+        <TenNhomSP>DuaHau</TenNhomSP>
+    </NhomSP>
+    <NhomSP>
+        <MaNhomSP>NSP05</MaNhomSP>
+        <TenNhomSP>Cam</TenNhomSP>
+    </NhomSP>
+    <NhaCungCap>
+        <MaNCC>NCC01</MaNCC>
+        <TenNCC>ChoXomMoi</TenNCC>
+    </NhaCungCap>
+    <NhaCungCap>
+        <MaNCC>NCC02</MaNCC>
+        <TenNCC>ChoDam</TenNCC>
+    </NhaCungCap>
+    <NhaCungCap>
+        <MaNCC>NCC03</MaNCC>
+        <TenNCC>ChoVinhHai</TenNCC>
+    </NhaCungCap>
+    <NhaCungCap>
+        <MaNCC>NCC04</MaNCC>
+        <TenNCC>ChoNoi</TenNCC>
+    </NhaCungCap>
+    <NhaCungCap>
+        <MaNCC>NCC05</MaNCC>
+        <TenNCC>ChoHuyen</TenNCC>
+    </NhaCungCap>
+    <SanPham>
+        <MaSP>SP01</MaSP>
+        <TenSP>DuaHauTron</TenSP>
+        <SoLuong>200</SoLuong>
+        <DonGia>20000</DonGia>
+        <MaNhomSP>NSP04</MaNhomSP>
+        <MaNCC>NCC01</MaNCC>
+        <TinhTrang>Còn hàng</TinhTrang>
+    </SanPham>
+    <SanPham>
+        <MaSP>SP02</MaSP>
+        <TenSP>ManBac</TenSP>
+        <SoLuong>50</SoLuong>
+        <DonGia>90000</DonGia>
+        <MaNhomSP>NSP01</MaNhomSP>
+        <MaNCC>NCC02</MaNCC>
+        <TinhTrang>Còn hàng</TinhTrang>
+    </SanPham>
+    <SanPham>
+        <MaSP>SP03</MaSP>
+        <TenSP>CamSanh</TenSP>
+        <SoLuong>90</SoLuong>
+        <DonGia>25000</DonGia>
+        <MaNhomSP>NSP05</MaNhomSP>
+        <MaNCC>NCC04</MaNCC>
+        <TinhTrang>Còn hàng</TinhTrang>
+    </SanPham>
+    <SanPham>
+        <MaSP>SP04</MaSP>
+        <TenSP>BuoiDaXanh</TenSP>
+        <SoLuong>60</SoLuong>
+        <DonGia>65000</DonGia>
+        <MaNhomSP>NSP03</MaNhomSP>
+        <MaNCC>NCC05</MaNCC>
+        <TinhTrang>Còn hàng</TinhTrang>
+    </SanPham>
+    <SanPham>
+        <MaSP>SP05</MaSP>
+        <TenSP>NhanTieu</TenSP>
+        <SoLuong>120</SoLuong>
+        <DonGia>30000</DonGia>
+        <MaNhomSP>NSP02</MaNhomSP>
+        <MaNCC>NCC03</MaNCC>
+        <TinhTrang>Còn hàng</TinhTrang>
+    </SanPham>
+    <HoaDonBan>
+        <SoHD>HD001</SoHD>
+        <MaKH>KH00005</MaKH>
+        <MaNVDuyet>NVD00004</MaNVDuyet>
+        <MaNVGiaoHang>NVG00003</MaNVGiaoHang>
+        <NgayDH>2022-05-13</NgayDH>
+        <NgayGH>2022-05-15</NgayGH>
+        <DiaChiGiao>65 Vo Tru</DiaChiGiao>
+        <TinhTrang>Đang giao</TinhTrang>
+    </HoaDonBan>
+    <HoaDonBan>
+        <SoHD>HD002</SoHD>
+        <MaKH>KH00004</MaKH>
+        <MaNVDuyet>NVD00005</MaNVDuyet>
+        <MaNVGiaoHang>NVG00003</MaNVGiaoHang>
+        <NgayDH>2022-04-22</NgayDH>
+        <NgayGH>2022-04-23</NgayGH>
+        <DiaChiGiao>78 Ngo Duc Ke</DiaChiGiao>
+        <TinhTrang>Chờ xác nhận</TinhTrang>
+    </HoaDonBan>
+    <HoaDonBan>
+        <SoHD>HD003</SoHD>
+        <MaKH>KH00003</MaKH>
+        <MaNVDuyet>NVD00002</MaNVDuyet>
+        <MaNVGiaoHang>NVG00001</MaNVGiaoHang>
+        <NgayDH>2021-07-06</NgayDH>
+        <NgayGH>2021-07-09</NgayGH>
+        <DiaChiGiao>09 Hong Linh</DiaChiGiao>
+        <TinhTrang>Đã giao</TinhTrang>
+    </HoaDonBan>
+    <HoaDonBan>
+        <SoHD>HD004</SoHD>
+        <MaKH>KH00002</MaKH>
+        <MaNVDuyet>NVD00002</MaNVDuyet>
+        <MaNVGiaoHang>NVG00001</MaNVGiaoHang>
+        <NgayDH>2022-02-13</NgayDH>
+        <NgayGH>2022-02-14</NgayGH>
+        <DiaChiGiao>02 Nguyen Dinh Chieu</DiaChiGiao>
+        <TinhTrang>Đang giao</TinhTrang>
+    </HoaDonBan>
+    <HoaDonBan>
+        <SoHD>HD005</SoHD>
+        <MaKH>KH00001</MaKH>
+        <MaNVDuyet>NVD00004</MaNVDuyet>
+        <MaNVGiaoHang>NVG00003</MaNVGiaoHang>
+        <NgayDH>2022-03-23</NgayDH>
+        <NgayGH>2022-03-25</NgayGH>
+        <DiaChiGiao>45 Thai Nguyen</DiaChiGiao>
+        <TinhTrang>Đang giao</TinhTrang>
+    </HoaDonBan>
+    <CTHDB>
+        <SoHD>HD005</SoHD>
+        <SoLuongMua>5</SoLuongMua>
+        <MaSP>SP03</MaSP>
+        <DonGia>25000</DonGia>
+    </CTHDB>
+    <CTHDB>
+        <SoHD>HD004</SoHD>
+        <SoLuongMua>10</SoLuongMua>
+        <MaSP>SP01</MaSP>
+        <DonGia>20000</DonGia>
+    </CTHDB>
+    <CTHDB>
+        <SoHD>HD002</SoHD>
+        <SoLuongMua>3</SoLuongMua>
+        <MaSP>SP05</MaSP>
+        <DonGia>30000</DonGia>
+    </CTHDB>
+    <CTHDB>
+        <SoHD>HD003</SoHD>
+        <SoLuongMua>15</SoLuongMua>
+        <MaSP>SP02</MaSP>
+        <DonGia>90000</DonGia>
+    </CTHDB>
+    <CTHDB>
+        <SoHD>HD001</SoHD>
+        <SoLuongMua>8</SoLuongMua>
+        <MaSP>SP04</MaSP>
+        <DonGia>65000</DonGia>
+    </CTHDB>
+</QLTC>
